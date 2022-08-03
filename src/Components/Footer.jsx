@@ -4,7 +4,7 @@ function Footer() {
   return (
     <div>
       <h3>
-        Todos los derechos reservados <Badge bg="warning">®</Badge>
+        Todos los derechos reservados <Badge bg="primary">®</Badge>
       </h3>
     </div>
   );
